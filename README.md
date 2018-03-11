@@ -7,3 +7,8 @@ My curated list of helpful packages/frameworks for various programming platform.
 * [Aimeos](https://aimeos.org/)
 * [Vanilo](https://vanilo.io/)
 * [Avored(earlier Mage2 Ecommerce)](https://www.avored.com/)
+
+### Laravel-Helpdesk
+* [Ticketit](https://github.com/thekordy/ticketit.git)
+* [Handesk](https://github.com/BadChoice/handesk)
+* [Faveo](https://github.com/ladybirdweb/faveo-helpdesk)
