@@ -13,3 +13,6 @@ My curated list of helpful packages/frameworks for various programming platform.
 * [Ticketit](https://github.com/thekordy/ticketit.git)
 * [Handesk](https://github.com/BadChoice/handesk)
 * [Faveo](https://github.com/ladybirdweb/faveo-helpdesk)
+
+### Laravel-Form&HTML
+* [Spatie Laravel HTML](https://github.com/spatie/laravel-html)
