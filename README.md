@@ -38,3 +38,6 @@ My curated list of helpful packages/frameworks for various programming platform.
 * [Flux](https://facebook.github.io/flux/) Flux is the application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow. It's more of a pattern rather than a formal framework, and you can start using Flux immediately without a lot of new code.
 * [elm](http://elm-lang.org/) A delightful language for reliable webapps.
 * [pagejs](https://github.com/visionmedia/page.js) Tiny Express-inspired client-side router.
+
+### Utilities
+* [async](https://caolan.github.io/async/) Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
